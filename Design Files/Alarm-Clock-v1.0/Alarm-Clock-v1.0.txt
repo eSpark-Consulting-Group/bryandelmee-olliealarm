@@ -1,29 +1,29 @@
 Board Information Report
 Filename     : E:\bryandelmee-olliealarm\Design Files\Alarm-Clock-v1.0\Alarm-Clock-v1.0.PcbDoc
-Date         : 2/9/2023
-Time         : 1:47:33 PM
+Date         : 2/10/2023
+Time         : 1:17:23 PM
 Time Elapsed : 00:00:00
 
 General
     Board Size, 2204.724milsx2874.016mils
-    Components on board, 142
+    Components on board, 143
 count : 2
 
 Routing Information
-    Routing completion, 0.93%
-    Connections, 323
-    Connections routed, 3
-    Connections remaining, 320
+    Routing completion, 37.31%
+    Connections, 327
+    Connections routed, 122
+    Connections remaining, 205
 count : 4
 
 Layer, Arcs, Pads, Vias, Tracks, Texts, Fills, Regions, ComponentBodies
-    Top Layer, 0, 438, 0, 25, 0, 1, 1, 0
-    Bottom Layer, 0, 0, 0, 0, 0, 0, 0, 0
-    Mechanical 1, 0, 0, 0, 0, 0, 0, 0, 123
+    Top Layer, 0, 451, 0, 180, 0, 68, 1, 0
+    Bottom Layer, 0, 0, 0, 12, 0, 0, 0, 0
+    Mechanical 1, 0, 0, 0, 0, 0, 0, 0, 119
     Mechanical 2, 14, 0, 0, 6, 0, 0, 1, 0
-    Multi-Layer, 0, 12, 20, 0, 0, 0, 8, 0
+    Multi-Layer, 0, 5, 39, 0, 0, 0, 8, 0
     Top Paste, 0, 0, 0, 0, 0, 0, 0, 0
-    Top Overlay, 2, 0, 0, 862, 285, 5, 0, 0
+    Top Overlay, 2, 0, 0, 878, 286, 8, 0, 0
     Top Solder, 0, 0, 0, 0, 0, 0, 0, 0
     Bottom Solder, 0, 0, 0, 0, 0, 0, 0, 0
     Bottom Overlay, 0, 0, 0, 0, 0, 0, 0, 0
