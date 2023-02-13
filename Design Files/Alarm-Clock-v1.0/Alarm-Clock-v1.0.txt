@@ -1,7 +1,7 @@
 Board Information Report
-Filename     : E:\bryandelmee-olliealarm\Design Files\Alarm-Clock-v1.0\Alarm-Clock-v1.0.PcbDoc
+Filename     : C:\Users\LiberDB\Documents\GitHub\bryandelmee-olliealarm\Design Files\Alarm-Clock-v1.0\Alarm-Clock-v1.0.PcbDoc
 Date         : 2/13/2023
-Time         : 4:29:35 PM
+Time         : 8:25:12 PM
 Time Elapsed : 00:00:00
 
 General
@@ -10,18 +10,18 @@ General
 count : 2
 
 Routing Information
-    Routing completion, 62.57%
+    Routing completion, 68.26%
     Connections, 334
-    Connections routed, 209
-    Connections remaining, 125
+    Connections routed, 228
+    Connections remaining, 106
 count : 4
 
 Layer, Arcs, Pads, Vias, Tracks, Texts, Fills, Regions, ComponentBodies
-    Top Layer, 0, 457, 0, 357, 0, 112, 1, 0
-    Bottom Layer, 0, 0, 0, 156, 0, 2, 0, 0
+    Top Layer, 0, 457, 0, 424, 0, 117, 1, 0
+    Bottom Layer, 0, 0, 0, 188, 0, 4, 0, 0
     Mechanical 1, 0, 0, 0, 0, 0, 0, 0, 125
     Mechanical 2, 14, 0, 0, 6, 0, 0, 1, 0
-    Multi-Layer, 0, 5, 114, 0, 0, 0, 8, 0
+    Multi-Layer, 0, 5, 139, 0, 0, 0, 8, 0
     Top Paste, 0, 0, 0, 0, 0, 0, 0, 0
     Top Overlay, 2, 0, 0, 906, 292, 23, 0, 0
     Top Solder, 0, 0, 0, 0, 0, 0, 0, 0
@@ -35,3 +35,7 @@ count : 14
 
 Drill Pairs, Vias
 count : 0
+
+Non-Plated Hole Size, Pads, Vias
+    0mils, 0, 0
+count : 1
