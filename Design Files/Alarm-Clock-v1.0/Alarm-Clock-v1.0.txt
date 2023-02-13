@@ -1,7 +1,7 @@
 Board Information Report
 Filename     : E:\bryandelmee-olliealarm\Design Files\Alarm-Clock-v1.0\Alarm-Clock-v1.0.PcbDoc
-Date         : 2/12/2023
-Time         : 2:20:37 AM
+Date         : 2/13/2023
+Time         : 4:29:35 PM
 Time Elapsed : 00:00:00
 
 General
@@ -10,20 +10,20 @@ General
 count : 2
 
 Routing Information
-    Routing completion, 56.89%
+    Routing completion, 62.57%
     Connections, 334
-    Connections routed, 190
-    Connections remaining, 144
+    Connections routed, 209
+    Connections remaining, 125
 count : 4
 
 Layer, Arcs, Pads, Vias, Tracks, Texts, Fills, Regions, ComponentBodies
-    Top Layer, 0, 457, 0, 298, 0, 109, 1, 0
-    Bottom Layer, 0, 0, 0, 95, 0, 2, 0, 0
-    Mechanical 1, 0, 0, 0, 0, 0, 0, 0, 121
+    Top Layer, 0, 457, 0, 357, 0, 112, 1, 0
+    Bottom Layer, 0, 0, 0, 156, 0, 2, 0, 0
+    Mechanical 1, 0, 0, 0, 0, 0, 0, 0, 125
     Mechanical 2, 14, 0, 0, 6, 0, 0, 1, 0
-    Multi-Layer, 0, 5, 107, 0, 0, 0, 8, 0
+    Multi-Layer, 0, 5, 114, 0, 0, 0, 8, 0
     Top Paste, 0, 0, 0, 0, 0, 0, 0, 0
-    Top Overlay, 2, 0, 0, 894, 292, 8, 0, 0
+    Top Overlay, 2, 0, 0, 906, 292, 23, 0, 0
     Top Solder, 0, 0, 0, 0, 0, 0, 0, 0
     Bottom Solder, 0, 0, 0, 0, 0, 0, 0, 0
     Bottom Overlay, 0, 0, 0, 0, 0, 0, 0, 0
