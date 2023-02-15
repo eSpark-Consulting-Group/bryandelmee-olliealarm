@@ -1,25 +1,25 @@
 Altium Designer Pick and Place Locations
-E:\bryandelmee-olliealarm\Design Files\Side-PCB-v1.1\Project Outputs for Side-PCB-v1.1\Pick Place for Side_PCB.csv
+C:\Users\LiberDB\Documents\GitHub\bryandelmee-olliealarm\Design Files\Side-PCB-v1.1\Project Outputs for Side-PCB-v1.1\Pick Place for Side_PCB.csv
 
 ========================================================================================================================
 File Design Information:
 
-Date:       13/02/23
-Time:       13:10
-Revision:   9feaedf7dbe8a0dd0bdb9fbc995604b0821b13f2
+Date:       15/02/23
+Time:       20:38
+Revision:   65bcf4e6e37a4c3295b0305a7de777128b7a8f73
 Variant:    No variations
-Units used: mil
+Units used: mm
 
-"Designator","Layer","Center-X(mil)","Center-Y(mil)","Rotation","Ref-X(mil)","Ref-Y(mil)","Pad-X(mil)","Pad-Y(mil)"
-"SW1","TopLayer","828,471mil","169,780mil","180","828,471mil","169,780mil","992,841mil","81,197mil"
-"R2","TopLayer","843,841mil","492,197mil","90","843,841mil","492,197mil","843,841mil","473,697mil"
-"R1","TopLayer","802,841mil","492,197mil","90","802,841mil","492,197mil","802,841mil","473,697mil"
-"J2","TopLayer","822,353mil","641,551mil","0","822,353mil","641,551mil","713,495mil","671,473mil"
-"J1","BottomLayer","822,526mil","353,394mil","0","724,101mil","303,197mil","724,101mil","303,197mil"
-"F1","TopLayer","986,148mil","490,197mil","0","986,148mil","490,197mil","942,841mil","490,197mil"
-"D1","TopLayer","966,967mil","433,197mil","0","966,967mil","433,197mil","959,093mil","433,197mil"
-"C62","TopLayer","605,500mil","100,012mil","270","605,500mil","100,012mil","605,500mil","118,512mil"
-"C4","TopLayer","884,841mil","492,197mil","270","884,841mil","492,197mil","884,841mil","510,697mil"
-"C3","TopLayer","760,841mil","492,197mil","270","760,841mil","492,197mil","760,841mil","510,697mil"
-"C2","TopLayer","984,841mil","745,197mil","270","984,841mil","745,197mil","984,841mil","763,697mil"
-"C1","TopLayer","659,841mil","745,197mil","270","659,841mil","745,197mil","659,841mil","763,697mil"
+"Designator","Layer","Center-X(mm)","Center-Y(mm)","Rotation","Ref-X(mm)","Ref-Y(mm)","Pad-X(mm)","Pad-Y(mm)"
+"J1","BottomLayer","20,8922mm","8,9762mm","0","20,8922mm","8,9762mm","18,3922mm","7,7012mm"
+"SW1","TopLayer","21,0432mm","4,3124mm","180","21,0432mm","4,3124mm","25,2182mm","2,0624mm"
+"R2","TopLayer","21,4336mm","12,5018mm","90","21,4336mm","12,5018mm","21,4336mm","12,0319mm"
+"R1","TopLayer","20,3922mm","12,5018mm","90","20,3922mm","12,5018mm","20,3922mm","12,0319mm"
+"J2","TopLayer","20,8878mm","16,2954mm","0","20,8878mm","16,2954mm","18,1228mm","17,0554mm"
+"F1","TopLayer","25,0482mm","12,4510mm","0","25,0482mm","12,4510mm","23,9482mm","12,4510mm"
+"D1","TopLayer","24,5610mm","11,0032mm","0","24,5610mm","11,0032mm","24,3610mm","11,0032mm"
+"C62","TopLayer","15,3797mm","2,5403mm","270","15,3797mm","2,5403mm","15,3797mm","3,0102mm"
+"C4","TopLayer","22,4750mm","12,5018mm","270","22,4750mm","12,5018mm","22,4750mm","12,9717mm"
+"C3","TopLayer","19,3254mm","12,5018mm","270","19,3254mm","12,5018mm","19,3254mm","12,9717mm"
+"C2","TopLayer","25,0150mm","18,9280mm","270","25,0150mm","18,9280mm","25,0150mm","19,3979mm"
+"C1","TopLayer","16,7600mm","18,9280mm","270","16,7600mm","18,9280mm","16,7600mm","19,3979mm"
