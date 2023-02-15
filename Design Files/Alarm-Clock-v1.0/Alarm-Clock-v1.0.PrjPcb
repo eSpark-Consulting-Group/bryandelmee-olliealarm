@@ -251,10 +251,6 @@ GenerateClassCluster=0
 DocumentUniqueId=LGNJRXSG
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for Alarm-Clock-v1.0\Design Rule Check - Alarm-Clock-v1.html
-DItemRevisionGUID=
-
-[GeneratedDocument2]
 DocumentPath=..\..\BOM\eSpark-BOM.xlsx
 DItemRevisionGUID=
 
