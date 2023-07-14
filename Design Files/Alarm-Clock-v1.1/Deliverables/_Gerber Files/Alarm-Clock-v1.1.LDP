@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\eSpark\Documents\bryandelmee-olliealarm\Design Files\Alarm-Clock-v1.1\Alarm-Clock-v1.1.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=alarm-clock-v1.1.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Rect_Holes|DrillFile=alarm-clock-v1.1-rectholes.txt|DrillLayers=gtl,gbl

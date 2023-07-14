@@ -1,0 +1,17 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Alarm-Clock-v1.1.PcbDoc   7/14/2023  10:56:44 AM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Alarm-Clock-v1.1.TXT
+ASCII RectHoles File : Alarm-Clock-v1.1-RectHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      12mil (0.3mm)                                             Round             352       PTH        36.65inch (930.98mm)
+T2      28mil (0.7mm)                                             Rectangle         2         PTH        0.71inch (18.04mm)
+T3      39mil (1mm)                                               Round             3         PTH        0.16inch (4.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              357
+
+Total Processing Time (hh:mm:ss) : 00:00:01
